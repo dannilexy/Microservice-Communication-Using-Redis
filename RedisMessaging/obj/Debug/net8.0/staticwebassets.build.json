@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aFRNoZQBFvdLimopGGhWnfM3vxPJ4etAfomUcek1DH4=",
+  "Source": "RedisMessaging",
+  "BasePath": "_content/RedisMessaging",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
